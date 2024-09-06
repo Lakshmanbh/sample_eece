@@ -1,8 +1,7 @@
 #inlude<stdio.h>
 int main()
 {
-Prinf("Hello world");
-}
-{
+prinf("Hello world");
 printf("Lakshman");
+print("second commit");
 }
